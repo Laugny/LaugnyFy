@@ -15,7 +15,7 @@ LaugnyFy is still in BETA, if there are any major Bugs I would be happy if you w
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/971787579680772106/LaugnyFy_1.png?size=4096)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/971852806216634408/LaugnyFy_2.png?size=4096)
+![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/971853262242324550/LaugnyFy2.png?size=4096)
 
 ## Downloads
 
