@@ -6,9 +6,10 @@ A Music app that allows you to play your favourite songs without Ads. It also ha
 NOTE: 
 LaugnyFy is still in BETA, if there are any major Bugs I would be happy if you would report them. I cant guarantee that everything will work flawless, wait once LaugnyFy is in Alpha.
 There arent many songs in the Collection yet, if you want to help with the Project, you can always suggest a song.
-## Brand Design / Logo
+## LaugnyFy
 
-![Logo](https://cdn.discordapp.com/attachments/879007204848566343/971784317195911178/LaugnyFy.png?size=64)
+![Logo](https://cdn.discordapp.com/attachments/808405153525923880/971874258361925652/LaugnyFy.gif?size=4096)
+
 
 
 
