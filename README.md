@@ -28,6 +28,7 @@ There arent many songs in the Collection yet, if you want to help with the Proje
 - Free to use
 - No stupid ads
 - Fancy Discord Rich Presence
+- Live Radio feature
 - Download Songs [COMING SOON]
 - Create your own playlists [COMING SOON]
 - Themes [COMING SOON]
