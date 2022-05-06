@@ -15,9 +15,9 @@ There arent many songs in the Collection yet, if you want to help with the Proje
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/971787579680772106/LaugnyFy_1.png?size=4096)
+![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/972159012143497236/LaugnyFy_2.png?size=4096)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/971853262242324550/LaugnyFy2.png?size=4096)
+![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/972159012403572736/LaugnyFy__2.png?size=4096)
 
 ## Downloads
 
