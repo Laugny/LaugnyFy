@@ -19,7 +19,7 @@ There arent many songs in the Collection yet, if you want to help with the Proje
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/972606785393397790/LaugnyFy_1.2_3.png?size=4096)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/972606785393397790/LaugnyFy_1.2_3.png?size=4096)
+![App Screenshot](https://cdn.discordapp.com/attachments/879007204848566343/972606331708145735/LaugnyFy_1.2_2.png?size=4096)
 
 ## Downloads
 
